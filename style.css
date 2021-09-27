@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    background-image: url(R.jfif);
+
+}
+
+.menu {
+    font-family: cursive;
+    position: fixed;
+    top: 0 px;
+    right: 30px;
+    z-index: 10;
+    width: 100%;
+    margin-top: 0px;
+}
+
+
+
+
+.link {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+
+
+}
+
+.link:hover {
+    background-color: white;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.I {
+    background-image: url(R.jfif)
+}
+
+img {
+    height: 200px;
+    border-radius: 5px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#picture {
+    width: 200px;
+}
+
+h1 {
+    color: white;
+
+}
+
+p {
+    color: white;
+    font-size: 22px;
+}
+
+#myname {
+    color: azure;
+}
+
+#My Hobby {
+    background-image: url(R.jfif);
+}
+
+#in {}
+
+#My Favourate Book {
+    background-image: url(R.jfif);
+}
+
+#My Inspration {
+    background-image: url(R.jfif);
+}
+
+#contact {
+ background-color: azure;
+    ra
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 a {
+    color: blue;
+    text-shadow: none;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
